@@ -1,0 +1,8 @@
+.vscode/
+
+node_modules/
+build/
+__tests__/coverage/
+
+yarn-error.log
+.coveralls.yml
